@@ -1,7 +1,7 @@
 # HexDump
 Simple utility to dump a binary file 
 
-Command syntax: `./hexdump *<filename>*`
+Command syntax: `./hexdump <filename>`
 
 ## Example Output:
 ```
